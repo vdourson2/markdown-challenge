@@ -11,7 +11,7 @@
 |Birthday|11/08|
 |Favorite color|red|
 |Favorite food|chocolate|
-|Pinneapple on pizza|yes no|
+|Pinneapple on pizza|- [] yes - [] no|
 
 ### Hobbies
 - Walk :
