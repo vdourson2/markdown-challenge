@@ -15,9 +15,9 @@
 
 ### Hobbies
 - Walk :
-    * in the nature
-    * in the mountain (my favorite, but not possible in Belgium)
-    * in a place charged with history
+    * in nature
+    * in mountain (my favorite, but not possible in Belgium)
+    * in places charged with history
 - Read :
     * novels
     * personal development
@@ -31,7 +31,9 @@ When I was little, my parents, very conventional people, told me people riding r
 #### TL;DR
 When I was little, I tought people in red cars where crazy.
 
-<<[Tim ](https://github.com/TimDesmet00/)|| Virginie ||[ Justine](https://github.com/Sheyleen)>>
+<<[Tim ](https://github.com/TimDesmet00/markdown-challenge
+)|| Virginie ||[ Justine](https://github.com/Sheyleen/markdown-challenge
+)>>
 
 
 
