@@ -26,7 +26,7 @@
 ### You can always count on me when you have a question (if I'm able to help you, il will do it with pleasure), or when you are distressed and need some help (I would do all in my abilities to help you).
 
 ### A funny story
-When I was little, my parents, very conventional people, told me people riding red cars were crazy, because they considered it was unthinkable to buy a red car. But I understood drivers of red cars were really crazy, so I watched them with fear.
+When I was little, my parents, very conventional people, told me people riding red cars were crazy, because they considered it was unthinkable to buy a red car. But I understood drivers of red cars were really crazy, so I watched them with fear. I now have a red car...
 
 #### TL;DR
 When I was little, I tought people in red cars where crazy.
